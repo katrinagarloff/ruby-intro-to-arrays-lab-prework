@@ -18,4 +18,6 @@ end
     ar[-1]
   end
   
-  def 
+  def first_element_with_array_methods(ar) 
+    ar.first
+  end
