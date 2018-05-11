@@ -10,3 +10,6 @@ def first_element(ar)
   ar[0]
 end
   
+  def third_element(ar)
+    ar[2]
+  end
