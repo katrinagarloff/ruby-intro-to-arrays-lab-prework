@@ -17,3 +17,5 @@ end
   def last_element(ar)
     ar[-1]
   end
+  
+  def 
